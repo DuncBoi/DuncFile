@@ -1,7 +1,3 @@
-#
-# Makefile for lab 5 part 1
-#
-
 CC  = g++
 CXX = g++
 
