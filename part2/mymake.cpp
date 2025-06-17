@@ -4,10 +4,6 @@
 #include "exception.h"
 #include "maker.h"
 
-/*
- * DO NOT MODIFY this file.
- */
-
 static void try_make(const mymake::Maker& maker, const char *target = nullptr)
 {
 
