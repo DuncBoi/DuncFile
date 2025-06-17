@@ -1,12 +1,8 @@
-#
-# Makefile for lab 5 part 2
-#
-
 CC  = g++
 CXX = g++
 
 CFLAGS   = -g -Wall
-CXXFLAGS = -g -Wall -std=c++17 -I ../part1
+CXXFLAGS = -g -Wall -std=c++17 -I ../xdb
 
 executable = mymake
 headers = maker.h exception.h
